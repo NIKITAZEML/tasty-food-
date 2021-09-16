@@ -1,0 +1,207 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #E5E5E5;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Header */
+
+header{
+    width: 100%;
+    margin-bottom: 3.854166666666667vw;
+}
+
+#navigation-in-header{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 2.083333333333333VW;
+    width: 17.34375VW;
+    height: 1.0416666666666665VW;
+    justify-content: space-between;
+}
+
+.links-in-header{
+    font-weight: bold;
+    font-size: 0.875vw;
+    color: #000;
+}
+
+/* Header */
+
+/* Section 1 */
+
+#section-1{
+    display: flex;
+    margin: 0 auto;
+    width: 58.345vw;
+    justify-content: space-between;
+    margin-bottom: 4.010vw;
+}
+
+#div-1-in-section-1{
+    width: 420.833vw;
+}
+
+#div-1-in-section-1 p{
+    width: 20.625vw;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 2.754vw;
+}
+
+#p-in-section-1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 1.042vw;
+    opacity: 60%;
+}
+
+#image-plate{
+    width: 32.147vw;
+    height: 26.555vw;
+}
+
+
+/* Section 1 */
+
+/* Section 2 */
+
+#section-2{
+    margin-bottom: 3.333vw;
+}
+
+.description{
+    width: 24.479vw;
+    margin: 0 auto;
+}
+
+
+.description-p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.042vw;
+    color: #FF5F33;
+}
+
+.description-h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.083vw;
+}
+
+#main-div-section-2{
+    display: flex;
+    padding: 3.438vw;
+    background-color: #F3F3F3;
+    width: 62.344vw;
+    margin: 0 auto;
+    justify-content: space-around;
+    border-radius: 20px 0 20px 0;
+}
+
+#main-div-section-2{
+    display: block;
+}
+
+#text-in-section-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+#images-in-section-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-text{
+    width: 17.240vw;
+}
+
+.p-in-section-2{
+    text-align: left;
+    font-size: 0.833vw;
+    opacity: 60%;
+}
+
+#apple{
+    width: 10.938vw;
+    height: 10.156vw;
+}
+
+#fish{
+    width: 9.063vw;
+    height: 8.385vw;
+}
+
+#cheese{
+    width: 8.021vw;
+    height: 8.333vw;
+}
+/* Section 2 */
+
+/* Section 3 */
+
+#section-3{
+    margin-bottom: 4.896vw;
+}
+
+#main-div-section-3{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+#backpack{
+    width: 30.938vw;
+    height: 28.333vw;
+}
+
+#standarts{
+    margin-left: 3.906vw;
+    display: flex;
+    flex-wrap: wrap;
+    width: 31.302vw;
+}
+
+.compositions{
+    padding: 1.042vw;
+    background-color: #F3F3F3;
+    width: 12.448vw;
+    height: 12.500vw;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.781vw;
+    margin-right: 0.781vw;
+    border-radius: 15px 0 15px 0;
+}
+
+.norms{
+    width: 6.042vw;
+}
+
+.norms-img{
+    align-self: flex-end;
+}
+
+.h3-in-norms{
+    font-size: 1.042vw;
+}
+
+.p-in-norms{
+    font-size: 0.833vw;
+    opacity: 60%;
+}
+
+.plan{
+    width: 2.656vw;
+    height: 3.490vw;
+}
+/* Section 3 */
